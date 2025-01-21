@@ -5,9 +5,9 @@ This repository contains the Big Data Challenge. The goal is to process and anal
 1. Downloaded Starter Code:
    - Acquired the starter code from the repository.
 2. File Name Changes:
- - Renamed files as per the naming conventions outlined in the challenge requirements.
+   - Renamed files as per the naming conventions outlined in the challenge requirements.
 3. Table Creation:
-- Created the Home_sales table in Apache Spark to process the dataset.
+   - Created the Home_sales table in Apache Spark to process the dataset.
 4. Question Solutions:
    - Completed all questions using Spark SQL.
    - Fulfilled all requirements and validated outputs.
